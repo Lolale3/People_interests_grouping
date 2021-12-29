@@ -1,4 +1,5 @@
 # People_interests_grouping
+https://lolalechuri.wixsite.com/mywebsite/post/people-grouping-recommendation-system
 
 There are various fields where a grouping of people becomes essential. College-Housing, Office-projects, academic projects, and many more are some of the examples. The grouping of the people depends on various criteria. Like for college-housing people grouping, the criteria can be similar personality or hobbies, for projects it can be based on success, how determined the person is, expertise, and such many projects.
 
